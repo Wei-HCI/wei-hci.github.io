@@ -1,5 +1,5 @@
 ---
-title: "Dragon Boat Simulation"
+title: "Dragon Boat Simulation: An Immersive Experience Beyond Traditional Gaming"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
