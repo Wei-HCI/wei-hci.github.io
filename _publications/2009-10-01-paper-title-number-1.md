@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Dragon Boat Simulation: An Immersive Experience Beyond Traditional Gaming"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023-10-13
+venue: 'SUI '23: Proceedings of the 2023 ACM Symposium on Spatial User Interaction'
+paperurl: 'https://dl.acm.org/doi/10.1145/3607822.3618022'
+citation: 'Wei He, Yuzheng Chen, Shengtian Xu, Changwen Ding, Lik-Hang Lee, and Ge Lin Kan. 2023. Dragon Boat Simulation: An Immersive Experience Beyond Traditional Gaming. In Proceedings of the 2023 ACM Symposium on Spatial User Interaction (SUI '23). Association for Computing Machinery, New York, NY, USA, Article 49, 1–2. https://doi.org/10.1145/3607822.3618022
+'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
