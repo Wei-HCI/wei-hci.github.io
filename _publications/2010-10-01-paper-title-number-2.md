@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-10-23
-venue: 'SUI '23: Proceedings of the 2023 ACM Symposium on Spatial User Interaction'
+venue: 'SUI \'23: Proceedings of the 2023 ACM Symposium on Spatial User Interaction'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://dl.acm.org/doi/10.1145/3607822.3618022'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
