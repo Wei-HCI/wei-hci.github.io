@@ -19,7 +19,6 @@ Work experience
 ======
 * June 2023 - December 2023: Research Assistant
   * Hong Kong University of Science and Technology (Guangzhou)
-  * Position: Research Summer Intern
   * Duties includes: Develop the dragon boat prototype
   * Supervisor: Lin Ge Kan
 
