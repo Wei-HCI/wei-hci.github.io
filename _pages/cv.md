@@ -17,10 +17,11 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 06.2023 - 12.2023: Research Assistant
+  * Hong Kong University of Science and Technology (Guangzhou)
+  * Position: Research Summer Intern
+  * Duties includes: Develop the dragon boat prototype
+  * Supervisor: Lin Ge Kan
 
 * Fall 2015: Research Assistant
   * Github University
