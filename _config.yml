@@ -28,7 +28,7 @@ author:
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wei.he1024@gmail.com" 
 
   # Academic websites
   
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
