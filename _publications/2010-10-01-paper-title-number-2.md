@@ -2,10 +2,9 @@
 title: "Dragon Boat Simulation: An Immersive Experience Beyond Traditional Gaming"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Immersive sports are emerging recently after the metaverse hype. This paper investigates an immersive setup that leverages virtual reality to recreate the kinetic and sensory nuances of dragon boating. We employ a body-centric approach to enable users to engage with authentic paddling actions, e.g., mobilising iron sticks on the boat with reasonably emulated water resistance. The virtual environments mirror real-world scenes, e.g., Pearl River (Guangdong). We employed multi-modal experiences to replicate the visuals and tactile, kinesthetic, and environmental intricacies of dragon boating. Our Dragon Boat simulator serves as a groundwork for redefining the boundaries of immersive sports training that bridges the gap between virtuality and the real world.'
 date: 2023-10-23
 venue: 'SUI23: Proceedings of the 2023 ACM Symposium on Spatial User Interaction'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://dl.acm.org/doi/10.1145/3607822.3618022'
 citation: 'Wei He, Yuzheng Chen, Shengtian Xu, Changwen Ding, Lik-Hang Lee, and Ge Lin Kan. 2023. Dragon Boat Simulation: An Immersive Experience Beyond Traditional Gaming. In Proceedings of the 2023 ACM Symposium on Spatial User Interaction (SUI 23). Association for Computing Machinery, New York, NY, USA, Article 49, 1–2. https://doi.org/10.1145/3607822.3618022'
 ---
