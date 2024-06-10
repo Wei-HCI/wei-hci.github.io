@@ -17,21 +17,17 @@ Education
 
 Work experience
 ======
-* 06.2023 - 12.2023: Research Assistant
+* June 2023 - December 2023: Research Assistant
   * Hong Kong University of Science and Technology (Guangzhou)
   * Position: Research Summer Intern
   * Duties includes: Develop the dragon boat prototype
   * Supervisor: Lin Ge Kan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2023 - May 2024: Research Assistant
+  * The Hong Kong Polytechnic University
+  * Duties included: Update and develop the Meta Court application
+  * Supervisor: Lik-Hang Lee
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
