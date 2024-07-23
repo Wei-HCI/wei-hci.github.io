@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wei He / Personal Website"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Wei He"
 description              : &description "Research Assistant at HKUST(GZ)"
