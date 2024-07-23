@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Wei He"
   pronouns         : # example: "she/her"  
-  bio              : "Hong Kong University of Science and Technology (Guangzhou)"
+  bio              : # "Hong Kong University of Science and Technology (Guangzhou)"
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
   uri              : # URL
