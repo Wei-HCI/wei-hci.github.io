@@ -10,8 +10,8 @@ I received my B.S. in Vehicle Engineering from Hunan University. I was a researc
 
 ## Research Interests
 
-- **Human-Computer Interaction:** 
-- **Virtual Reality:**
+- **Human-Computer Interaction** 
+- **Virtual Reality**
 
 ## News
 
