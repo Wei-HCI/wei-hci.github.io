@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Wei He"
 title_separator          : "-"
 name                     : &name "Wei He"
 description              : &description "Research Assistant at HKUST(GZ)"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Wei He"
   pronouns         : # example: "she/her"  
-  bio              : # "Hong Kong University of Science and Technology (Guangzhou)"
+  bio              : "Hong Kong University of Science and Technology (Guangzhou)"
   location         : "Guangzhou, China"
-  employer         : "HKUST(GZ)"
+  employer         : #"HKUST(GZ)"
   uri              : # URL
   email            : "wei.he1024@gmail.com" 
 
