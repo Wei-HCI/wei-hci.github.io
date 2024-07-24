@@ -25,7 +25,7 @@ I received my B.S. in Vehicle Engineering from Hunan University. I was a researc
   <br>
   Proceedings of the 2024 ACM International Conference on Multimedia. **MM 2024**
   <br>
-  [[PDF]]
+  [PDF]
 
 - **Dragon Boat Simulation: An Immersive Experience Beyond Traditional Gaming**
   <br>
