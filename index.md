@@ -27,6 +27,7 @@ I received my B.S. in Vehicle Engineering from Hunan University. I was a researc
   <br>
   [PDF]
 
+## Posters, Workshops
 - **Dragon Boat Simulation: An Immersive Experience Beyond Traditional Gaming**
   <br>
   **Wei He**, Yuzheng Chen, Shengtian Xu, Changwen Ding, Lik-Hang Lee, and Ge Lin Kan
