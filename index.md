@@ -18,14 +18,14 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
 ## News
 
 - **[Jul. 2024]** My first-author paper has been accepted by ACM MM 2024. Thanks to my co-authors! 🎉
-- **[Oct. 2023]** Our poster has been accepted by SUI 2023!
+- **[Oct. 2023]** Our poster has been accepted by ACM SUI 2023!
 
 ## Publications
 - **MetaDragonBoat: Exploring Paddling Techniques of Virtual Dragon Boating in a Metaverse Campus**
   <br>
   **Wei He**, Xiang Li, Shengtian Xu, Yuzheng Chen, Sio Chan In Devin, Ge Lin Kan, LIK-HANG Lee
   <br>
-  Proceedings of the 2024 ACM International Conference on Multimedia. **MM 2024**
+  Proceedings of the 2024 ACM International Conference on Multimedia. **ACM MM 2024**
   <br>
   [PDF]
 
@@ -34,7 +34,7 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
   <br>
   **Wei He**, Yuzheng Chen, Shengtian Xu, Changwen Ding, Lik-Hang Lee, and Ge Lin Kan
   <br>
-  Proceedings of the 2023 ACM Symposium on Spatial User Interaction. **SUI 2023**
+  Proceedings of the 2023 ACM Symposium on Spatial User Interaction. **ACM SUI 2023**
   <br>
   [[PDF](https://dl.acm.org/doi/10.1145/3607822.3618022)]
 
