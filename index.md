@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Wei He, a first-year M.Phil student at the Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). Previously, I was a M.Phil student at The Hong Kong Polytechnic University, supervised by Prof. [Lik-Hang Lee](https://www.lhlee.com/).
+Hi, I am Wei He, an incoming Ph.D. student at the Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). Previously, I was a M.Phil student at The Hong Kong Polytechnic University.
 
-I received my B.S. in Vehicle Engineering from Hunan University. I was a research intern at the Hong Kong University of Science and Technology (Guangzhou) in 2023 summer, advised by [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin) and [Lik-Hang Lee](https://www.lhlee.com/).
+I received my B.S. in Vehicle Engineering from Hunan University. I was a research intern at the Hong Kong University of Science and Technology (Guangzhou) in 2023 summer, advised by [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin).
 
 \| <a href="./assets/css/Wei_He_CV.pdf">CV</a> \| [Twitter](https://twitter.com/will_weihe) \| [Google Scholar](https://scholar.google.com/citations?user=V2x6UVQAAAAJ&hl) \|
 
