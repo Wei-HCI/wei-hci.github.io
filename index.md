@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Wei He, a research student at the Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). Previously, I was a M.Phil student at The Hong Kong Polytechnic University.
+Hi, I am Wei He, a research student at the Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). Previously, I was a M.Phil. student at the Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University.
 
 I received my B.Sc. in Vehicle Engineering from Hunan University. I was a research intern at the Hong Kong University of Science and Technology (Guangzhou) in 2023 summer, advised by [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin).
 
@@ -23,7 +23,7 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
 ## Publications
 - **MetaDragonBoat: Exploring Paddling Techniques of Virtual Dragon Boating in a Metaverse Campus**
   <br>
-  **Wei He**, Xiang Li, Shengtian Xu, Yuzheng Chen, Sio Chan In Devin, Ge Lin Kan, LIK-HANG Lee
+  **Wei He**, Xiang Li, Shengtian Xu, Yuzheng Chen, Chan-In Sio, Ge Lin Kan, Lik-Hang Lee
   <br>
   Proceedings of the 2024 ACM International Conference on Multimedia. **ACM MM 2024**
   <br>
