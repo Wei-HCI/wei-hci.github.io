@@ -36,7 +36,7 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
   <br>
   Proceedings of the 2023 ACM Symposium on Spatial User Interaction. **ACM SUI 2023**
   <br>
-  \| <a href="./assets/files/SUI_poster.pdf">PDF</a> \| [ACM DL (DOI)](https://doi.org/10.1145/3664647.3681078) \|
+  \| <a href="./assets/files/SUI_poster.pdf">PDF</a> \| [ACM DL (DOI)](https://doi.org/10.1145/3607822.3618022) \|
 
 <!-- {% include_relative _includes/publications.md %} -->
 
