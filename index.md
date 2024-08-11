@@ -27,7 +27,7 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
   <br>
   Proceedings of the 2024 ACM International Conference on Multimedia. **ACM MM 2024**
   <br>
- <a href="./assets/files/MM24_MetaDragonBoat.pdf">PDF</a> \| [ACM DL (DOI)](https://doi.org/10.1145/3664647.3681078) \| [arXiv](https://arxiv.org/abs/2408.04013)
+ \| <a href="./assets/files/MM24_MetaDragonBoat.pdf">PDF</a> \| [ACM DL (DOI)](https://doi.org/10.1145/3664647.3681078) \| [arXiv](https://arxiv.org/abs/2408.04013) \|
 
 ## Posters, Workshops
 - **Dragon Boat Simulation: An Immersive Experience Beyond Traditional Gaming**
@@ -36,7 +36,7 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
   <br>
   Proceedings of the 2023 ACM Symposium on Spatial User Interaction. **ACM SUI 2023**
   <br>
-  <a href="./assets/files/SUI_poster.pdf">PDF</a> \| [ACM DL (DOI)](https://doi.org/10.1145/3664647.3681078) 
+  \| <a href="./assets/files/SUI_poster.pdf">PDF</a> \| [ACM DL (DOI)](https://doi.org/10.1145/3664647.3681078) \|
 
 <!-- {% include_relative _includes/publications.md %} -->
 
