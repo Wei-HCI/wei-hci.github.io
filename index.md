@@ -17,7 +17,7 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
 
 ## News
 
-- **[Jul. 2024]** Our ACM ISS 2024 paper has been assigned minor revisions! Congrats, Xiang!
+- **[Aug. 2024]** Our ACM ISS 2024 paper has been assigned minor revisions! Congrats, Xiang!
 - **[Jul. 2024]** My first-author paper has been accepted by ACM MM 2024. Thanks to my co-authors! 🎉
 - **[Oct. 2023]** Our poster has been accepted by ACM SUI 2023!
 
