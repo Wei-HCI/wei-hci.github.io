@@ -22,6 +22,14 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
 - **[Oct. 2023]** Our poster has been accepted by ACM SUI 2023!
 
 ## Publications
+
+- **Exploring Creation Perspectives and Icon Placement for On-Body Menus in Virtual Reality**
+  <br>
+ Xiang Li, **Wei He**, Shan Jin, Jan Gugenheimer, Pan Hui, Hai-Ning Liang, Per Ola Kristensson
+  Proceedings of the 2024 ACM International Conference on Interative Surfaces and Spaces. **ACM ISS 2024**
+  <br>
+ \| PDF \| [ACM DL (DOI)] \| [arXiv] \|
+
 - **MetaDragonBoat: Exploring Paddling Techniques of Virtual Dragon Boating in a Metaverse Campus**
   <br>
   **Wei He**, Xiang Li, Shengtian Xu, Yuzheng Chen, Chan-In Sio, Ge Lin Kan, Lik-Hang Lee
