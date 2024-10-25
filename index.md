@@ -28,7 +28,7 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
  Xiang Li, **Wei He**, Shan Jin, Jan Gugenheimer, Pan Hui, Hai-Ning Liang, Per Ola Kristensson
   Proceedings of the 2024 ACM International Conference on Interative Surfaces and Spaces. **ACM ISS 2024**
   <br>
- \| PDF \| ACM DL (DOI) \| arXiv \|
+ \| PDF \| [ACM DL (DOI)](https://dl.acm.org/doi/10.1145/3698136) \| arXiv \|
 
 - **MetaDragonBoat: Exploring Paddling Techniques of Virtual Dragon Boating in a Metaverse Campus**
   <br>
