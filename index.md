@@ -17,6 +17,7 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
 
 ## News
 
+- **[Nov. 2024]** Our poster has been accepted by ACM MUM 2024! 🎉 Thrill to fly to Stockhom.
 - **[Sep. 2024]** Our ACM ISS 2024 paper has been accepted! Congrats, Xiang, one more first-author paper!
 - **[Jul. 2024]** My first-author paper has been accepted by ACM MM 2024. Thanks to my co-authors! 🎉
 - **[Oct. 2023]** Our poster has been accepted by ACM SUI 2023!
