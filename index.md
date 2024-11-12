@@ -48,6 +48,14 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
   <br>
   \| <a href="./assets/files/SUI_poster.pdf">PDF</a> \| [ACM DL (DOI)](https://doi.org/10.1145/3607822.3618022) \|
 
+- **The Framework of NAVIS: Navigating Virtual Spaces with Immersive Scooters**
+  <br>
+  Zhixun Lin, **Wei He**, Xinyi Liu, Mingchen Ye, Xiang Li, Ge Lin Kan
+  <br>
+  23rd International Conference on Mobile and Ubiquitous Multimedia **ACM MUM 2024**
+  <br>
+  \| PDF \| [ACM DL (DOI)] \| [arXiv](http://arxiv.org/abs/2411.05569) \|
+
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/services.md %}
