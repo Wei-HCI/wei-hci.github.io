@@ -54,7 +54,7 @@ I received my B.Sc. in Vehicle Engineering from Hunan University. I was a resear
   <br>
   23rd International Conference on Mobile and Ubiquitous Multimedia **ACM MUM 2024**
   <br>
-  \| PDF \| [ACM DL (DOI)] \| [arXiv](http://arxiv.org/abs/2411.05569) \|
+  \| PDF \| ACM DL (DOI) \| [arXiv](http://arxiv.org/abs/2411.05569) \|
 
 <!-- {% include_relative _includes/publications.md %} -->
 
