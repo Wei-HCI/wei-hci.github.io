@@ -4,9 +4,8 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Wei He, a PhD student at the Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). Previously, I worked as a research assistant at the Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University, and the Thrust of Urban Governance and Design, The Hong Kong University of Science and Technology (Guangzhou) in 2023 and 2024, accordingly.
+Hi, I am Wei He, a PhD student at the Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). Previously, I worked as a research assistant at the Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University, and the Thrust of Urban Governance and Design, The Hong Kong University of Science and Technology (Guangzhou) in 2023 and 2024, accordingly. I received my B.Sc. in Vehicle Engineering from Hunan University. 
 
-I received my B.Sc. in Vehicle Engineering from Hunan University. I was a research intern at the Hong Kong University of Science and Technology (Guangzhou) in 2023 summer, advised by [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin).
 
 \| <a href="./assets/files/Wei_He_CV.pdf">CV</a> \| [Twitter](https://twitter.com/will_weihe) \| [Google Scholar](https://scholar.google.com/citations?user=V2x6UVQAAAAJ&hl) \|
 
