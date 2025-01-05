@@ -41,7 +41,7 @@ Previously, I worked as a research assistant at the Department of Industrial and
   <br>
  \| <a href="./assets/files/MM24_MetaDragonBoat.pdf">PDF</a> \| [ACM DL (DOI)](https://doi.org/10.1145/3664647.3681078) \| [arXiv](https://arxiv.org/abs/2408.04013) \|
 
-## Posters and Workshops
+## Posters, Demos, and Workshops
 
 - **The Framework of NAVIS: Navigating Virtual Spaces with Immersive Scooters**
   <br>
