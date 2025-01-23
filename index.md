@@ -19,6 +19,7 @@ Previously, I worked as a research assistant at the Department of Industrial and
 
 ## News
 
+- **[Jan. 2025]** I have started my PhD in 2025 at HKUST(GZ)!
 - **[Nov. 2024]** Our poster has been accepted by ACM MUM 2024! 🎉 Thrill to fly to Stockhom.
 - **[Sept. 2024]** Our ACM ISS 2024 paper has been accepted! Congrats, Xiang, one more first-author paper!
 - **[Jul. 2024]** My first-author paper has been accepted by ACM MM 2024. Thanks to my co-authors! 🎉
