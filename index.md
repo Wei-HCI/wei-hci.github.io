@@ -19,6 +19,7 @@ Previously, I worked as a research assistant at the Department of Industrial and
 
 ## News
 
+- **[Mar. 2025]** I am serving as a Student Volunteer for IEEE VR 2025 in France! Bonjour.
 - **[Jan. 2025]** I have started my PhD in 2025 at HKUST(GZ)!
 - **[Nov. 2024]** Our poster has been accepted by ACM MUM 2024! 🎉 Thrill to fly to Stockhom.
 - **[Sept. 2024]** Our ACM ISS 2024 paper has been accepted! Congrats, Xiang, one more first-author paper!
