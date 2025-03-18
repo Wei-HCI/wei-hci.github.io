@@ -9,7 +9,7 @@ Hi, I am Wei He, a Ph.D. student at The Hong Kong University of Science and Tech
 Previously, I worked as a research assistant at the Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University, and the Thrust of Urban Governance and Design, The Hong Kong University of Science and Technology (Guangzhou) in 2023 and 2024, accordingly. I received my B.Sc. in Vehicle Engineering from Hunan University. 
 
 
-\| <a href="./assets/files/Wei_He_CV.pdf">CV</a> \| [Twitter](https://twitter.com/will_weihe) \| [Google Scholar](https://scholar.google.com/citations?user=V2x6UVQAAAAJ&hl) \|
+\| <a href="./assets/files/CV.pdf">CV</a> \| [Twitter](https://twitter.com/will_weihe) \| [Google Scholar](https://scholar.google.com/citations?user=V2x6UVQAAAAJ&hl) \|
 
 ## Research Interests
 
