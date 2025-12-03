@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Wei He, a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). I also work closely with [Xiang Li](https://www.xiang-li.phd/home) from the University of Cambridge. 
+Hi, I am Wei He, a Ph.D. student at the Urban Governance and Design Thrust, The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). I also work closely with [Xiang Li](https://www.xiang-li.phd/home) from the University of Cambridge and [Hai-Ning Liang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=437) from the Computational Media and Arts Thrust.
 
 Previously, I worked as a research assistant at the Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University, and the Thrust of Urban Governance and Design, The Hong Kong University of Science and Technology (Guangzhou) in 2023 and 2024, accordingly. I received my B.Sc. in Vehicle Engineering from Hunan University. 
 
@@ -33,12 +33,12 @@ Previously, I worked as a research assistant at the Department of Industrial and
  Xiang Li, **Wei He**, Per Ola Kristensson
   IEEE Transactions on Visualization and Computer Graphics. Innovate UK Immersive Tech Award 2025 for Technical Innovation
   <br>
- \| <a href="./assets/files/microGEXT.pdf">PDF</a> \| [ACM DL (DOI)] \| [arXiv](https://arxiv.org/abs/2504.04198) \| -->
+ \| <a href="./assets/files/microGEXT.pdf">PDF</a> \| [IEEE Xplore (DOI)] \| [arXiv](https://arxiv.org/abs/2504.04198) \| -->
 
 - **Investigating Creation Perspectives and Icon Placement Preferences for On-Body Menus in Virtual Reality**
   <br>
  Xiang Li, **Wei He**, Shan Jin, Jan Gugenheimer, Pan Hui, Hai-Ning Liang, Per Ola Kristensson
-  Proceedings of the 2024 ACM International Conference on Interative Surfaces and Spaces. **ACM ISS 2024**
+  Proceedings of the 2024 ACM International Conference on Interactive Surfaces and Spaces. **ACM ISS 2024**
   <br>
  \| <a href="./assets/files/ISS24_OnBodyMenu.pdf">PDF</a> \| [ACM DL (DOI)](https://dl.acm.org/doi/10.1145/3698136) \| [arXiv](https://arxiv.org/abs/2409.20238) \|
 
