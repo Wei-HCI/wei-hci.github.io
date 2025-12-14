@@ -19,6 +19,7 @@ Previously, I worked as a research assistant at the Department of Industrial and
 
 ## News
 
+- **[Dec. 2025]** My Scooter paper has been accepted by IEEE VR 2026! Huge thanks to my amazing co-authors! 🎉 Also, the microGEXT project, in collaborating with Cambridge, has been finally accpeted and published in IEEE TVCG! Congrats, Xiang!
 - **[Mar. 2025]** I am serving as a Student Volunteer for IEEE VR 2025 in France! Bonjour.
 - **[Jan. 2025]** I have started my PhD in 2025 at HKUST(GZ)!
 - **[Nov. 2024]** Our poster has been accepted by ACM MUM 2024! 🎉 Thrill to fly to Stockhom.
