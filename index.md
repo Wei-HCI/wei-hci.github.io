@@ -29,12 +29,12 @@ Previously, I worked as a research assistant at the Department of Industrial and
 
 ## Publications
 
-<!-- - **Evaluating the Usability of Microgestures for Text Editing Tasks in Virtual Reality**
+- **Evaluating the Usability of Microgestures for Text Editing Tasks in Virtual Reality**
   <br>
  Xiang Li, **Wei He**, Per Ola Kristensson
   IEEE Transactions on Visualization and Computer Graphics. Innovate UK Immersive Tech Award 2025 for Technical Innovation
   <br>
- \| <a href="./assets/files/microGEXT.pdf">PDF</a> \| [IEEE Xplore (DOI)] \| [arXiv](https://arxiv.org/abs/2504.04198) \| -->
+ \| <a href="./assets/files/microGEXT.pdf">PDF</a> \| [IEEE Xplore (DOI)] \| [arXiv](https://arxiv.org/abs/2504.04198) \|
 
 - **Investigating Creation Perspectives and Icon Placement Preferences for On-Body Menus in Virtual Reality**
   <br>
