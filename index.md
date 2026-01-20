@@ -34,7 +34,7 @@ Previously, I worked as a research assistant at the Department of Industrial and
  Xiang Li, **Wei He**, Per Ola Kristensson
   IEEE Transactions on Visualization and Computer Graphics. Innovate UK Immersive Tech Award 2025 for Technical Innovation
   <br>
- \| <a href="./assets/files/microGEXT.pdf">PDF</a> \| [IEEE Xplore (DOI)] \| [arXiv](https://arxiv.org/abs/2504.04198) \|
+ \| <a href="./assets/files/microGEXT.pdf">PDF</a> \| [IEEE Xplore (DOI)](https://ieeexplore.ieee.org/document/11298562)\| [arXiv](https://arxiv.org/abs/2504.04198) \|
 
 - **Investigating Creation Perspectives and Icon Placement Preferences for On-Body Menus in Virtual Reality**
   <br>
