@@ -33,20 +33,23 @@ Previously, I worked as a research assistant at the Department of Industrial and
 - **How Do We Evaluate Experiences in Immersive Environments?**
   <br>
  Xiang Li, **Wei He**, Per Ola Kristensson
-  Proceedings of the 2026 ACM CHI conference on Human Factors in Computing System **ACM CHI 2026**
+ <br>
+  Proceedings of the 2026 ACM CHI conference on Human Factors in Computing System. **ACM CHI 2026**
   <br>
  \| <a href="./assets/files/CHI26_IX.pdf">PDF</a> \| [ACM DL (DOI)]\| [arXiv](https://arxiv.org/abs/2601.17811) \|
 
 - **Evaluating the Usability of Microgestures for Text Editing Tasks in Virtual Reality**
   <br>
  Xiang Li, **Wei He**, Per Ola Kristensson
+ <br>
   **IEEE Transactions on Visualization and Computer Graphics**. Innovate UK Immersive Tech Award 2025 for Technical Innovation
   <br>
  \| <a href="./assets/files/microGEXT.pdf">PDF</a> \| [IEEE Xplore (DOI)](https://ieeexplore.ieee.org/document/11298562)\| [arXiv](https://arxiv.org/abs/2504.04198) \|
 
 - **Investigating Creation Perspectives and Icon Placement Preferences for On-Body Menus in Virtual Reality**
   <br>
- Xiang Li, **Wei He**, Shan Jin, Jan Gugenheimer, Pan Hui, Hai-Ning Liang, Per Ola Kristensson
+ Xiang Li, **Wei He**, Shan Jin, Jan Gugenheimer, Pan Hui, Hai-Ning Liang, Per Ola Kristensson 
+ <br>
   Proceedings of the 2024 ACM International Conference on Interactive Surfaces and Spaces. **ACM ISS 2024**
   <br>
  \| <a href="./assets/files/ISS24_OnBodyMenu.pdf">PDF</a> \| [ACM DL (DOI)](https://dl.acm.org/doi/10.1145/3698136) \| [arXiv](https://arxiv.org/abs/2409.20238) \|
