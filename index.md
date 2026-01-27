@@ -30,10 +30,17 @@ Previously, I worked as a research assistant at the Department of Industrial and
 
 ## Publications
 
+- **How Do We Evaluate Experiences in Immersive Environments?**
+  <br>
+ Xiang Li, **Wei He**, Per Ola Kristensson
+  Proceedings of the 2026 ACM CHI conference on Human Factors in Computing System **ACM CHI 2026**
+  <br>
+ \| <a href="./assets/files/CHI26_IX.pdf">PDF</a> \| [ACM DL (DOI)]\| [arXiv](https://arxiv.org/abs/2601.17811) \|
+
 - **Evaluating the Usability of Microgestures for Text Editing Tasks in Virtual Reality**
   <br>
  Xiang Li, **Wei He**, Per Ola Kristensson
-  IEEE Transactions on Visualization and Computer Graphics. Innovate UK Immersive Tech Award 2025 for Technical Innovation
+  **IEEE Transactions on Visualization and Computer Graphics**. Innovate UK Immersive Tech Award 2025 for Technical Innovation
   <br>
  \| <a href="./assets/files/microGEXT.pdf">PDF</a> \| [IEEE Xplore (DOI)](https://ieeexplore.ieee.org/document/11298562)\| [arXiv](https://arxiv.org/abs/2504.04198) \|
 
