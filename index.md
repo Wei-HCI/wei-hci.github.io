@@ -32,12 +32,12 @@ Previously, I worked as a research assistant at the Department of Industrial and
 
 - **LocoScooter: Designing a Stationary Scooter-Based Locomotion System for Navigation in Virtual Reality**
   <br>
-**Wei He***, Xiang Li*, Per Ola Kristensson, Ge Lin Kan  
+<sup>*</sup>**Wei He**, <sup>*</sup>Xiang Li, Per Ola Kristensson, Ge Lin Kan  
 (<sup>*</sup> Equal contribution)
  <br>
   Proceedings of the 33rd IEEE Conference on Virtual Reality and 3D User Interfaces. **IEEE VR 2026** (accepted to the IEEE TVCG special issue )
   <br>
-\| [IEEE Xplore (DOI)]\| [arXiv](https://arxiv.org/pdf/2601.02167) \|
+\| [arXiv](https://arxiv.org/pdf/2601.02167) \|
 
 
 - **How Do We Evaluate Experiences in Immersive Environments?**
