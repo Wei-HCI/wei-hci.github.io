@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I am Wei He, a Ph.D. student at the Urban Governance and Design Thrust, The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin). I also work closely with [Xiang Li](https://www.xiang-li.phd/home) from the University of Cambridge and [Hai-Ning Liang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=437) from the Computational Media and Arts Thrust.
+Hi, I am Wei He, a Ph.D. student at the Urban Governance and Design Thrust, The Hong Kong University of Science and Technology (Guangzhou), supervised by Prof. [Ge Lin Kan](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/KAN-GeLin/gelin).
 
 Previously, I worked as a research assistant at the Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University, and the Thrust of Urban Governance and Design, The Hong Kong University of Science and Technology (Guangzhou) in 2023 and 2024, accordingly. I received my B.Sc. in Vehicle Engineering from Hunan University. 
 
@@ -30,6 +30,15 @@ Previously, I worked as a research assistant at the Department of Industrial and
 - **[Oct. 2023]** Our poster has been accepted by ACM SUI 2023!
 
 ## Publications
+
+- **LocoScooter: Designing a Stationary Scooter-Based Locomotion System for Navigation in Virtual Reality**
+  <br>
+<sup>*</sup>**Wei He**, <sup>*</sup>Xiang Li, Per Ola Kristensson, Ge Lin Kan (<sup>*</sup> Equal contribution)
+ <br>
+  Proceedings of the 33rd IEEE Conference on Virtual Reality and 3D User Interfaces. **IEEE VR 2026** (accepted to the IEEE TVCG special issue)
+  <br>
+\| [arXiv](https://arxiv.org/pdf/2601.02167) \|
+
 
 - **How Do We Evaluate Experiences in Immersive Environments?**
   <br>
