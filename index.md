@@ -19,7 +19,7 @@ Previously, I worked as a research assistant at the Department of Industrial and
 
 ## News
 
-- **[Aug. 2026]** Two of our workshop papers have been accepted to the ACM UbiComp 2026 EverydayXR Workshop!
+- **[Aug. 2026]** Two of our workshop papers have been accepted to the ACM UbiComp 2026 EverydayXR Workshop! 🎉
 - **[Jan. 2026]** Our CHI paper got accepted! and I am happy to share that our Scooter has also been selected for publication in IEEE TVCG.
 - **[Dec. 2025]** My Scooter paper has been accepted by IEEE VR 2026! Huge thanks to my amazing co-authors! Also, the microGEXT project, in collaborating with Cambridge, has been finally accpeted and published in IEEE TVCG! Congrats, Xiang!
 - **[Mar. 2025]** I am serving as a Student Volunteer for IEEE VR 2025 in France! Bonjour.
