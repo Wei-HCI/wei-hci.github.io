@@ -16,29 +16,42 @@
 
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
-    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <script src="/assets/js/favicon-switcher.js" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     
     {% if site.font == "Sans Serif" %}
-    <link rel="stylesheet" href="./assets/css/font_sans_serif.css">
+    <link rel="stylesheet" href="/assets/css/font_sans_serif.css">
     {% else %}
-    <link rel="stylesheet" href="./assets/css/font.css">
+    <link rel="stylesheet" href="/assets/css/font.css">
     {% endif %}
     {% if site.auto_dark_mode %}
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/publications.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/publications.css">
     {% else %}
-    <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
-    <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
+    <link rel="stylesheet" href="/assets/css/style-no-dark-mode.css">
+    <link rel="stylesheet" href="/assets/css/publications-no-dark-mode.css">
     {% endif %}
 
   </head>
   <body>
+    {% if site.nav %}
+    <div class="topbar">
+      <div class="topbar-inner">
+        <a class="topbar-brand" href="/">{{ site.title }}</a>
+        <nav class="site-nav">
+          {% for item in site.nav %}
+          <a href="{{ item.url }}"{% if page.url == item.url %} class="active" aria-current="page"{% endif %}>{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </div>
+    {% endif %}
     <div class="wrapper">
+      <div class="page">
       <header>
-        
+
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
@@ -104,8 +117,9 @@
       {% endif %}
 
       </section>
+      </div>
       <footer>
-        
+
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
