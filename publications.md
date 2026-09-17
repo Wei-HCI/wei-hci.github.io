@@ -29,7 +29,7 @@ title: Publications
   <br>
  Xiang Li, **Wei He**, Per Ola Kristensson
  <br>
-  In *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)*. 2026.
+  In **Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)**. 2026.
   <br>
  \| <a href="/assets/files/CHI26_IX.pdf">PDF</a> \| [ACM DL (DOI)](https://dl.acm.org/doi/10.1145/3772318.3790724) \| [arXiv](https://arxiv.org/abs/2601.17811) \|
 
