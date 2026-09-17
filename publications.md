@@ -6,9 +6,11 @@ title: Publications
 
 ## Publications
 
+<sup>*</sup> equal contribution.
+
 - **An Exploration of Collaboration Strategies Across Levels of Co-Presence in VR Exergames**
   <br>
-<sup>*</sup>**Wei He**, <sup>*</sup>Xiang Li, Mark Colley, Per Ola Kristensson, Ge Lin Kan, and Hai-Ning Liang (<sup>*</sup> Equal contribution)
+**Wei He**<sup>*</sup>, Xiang Li<sup>*</sup>, Mark Colley, Per Ola Kristensson, Ge Lin Kan, and Hai-Ning Liang
   <br>
   **Virtual Reality**
   <br>
@@ -16,7 +18,7 @@ title: Publications
 
 - **LocoScooter: Designing a Stationary Scooter-Based Locomotion System for Navigation in Virtual Reality**
   <br>
-<sup>*</sup>**Wei He**, <sup>*</sup>Xiang Li, Per Ola Kristensson, Ge Lin Kan (<sup>*</sup> Equal contribution)
+**Wei He**<sup>*</sup>, Xiang Li<sup>*</sup>, Per Ola Kristensson, Ge Lin Kan
  <br>
   **IEEE Transactions on Visualization and Computer Graphics (TVCG)**, with the IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2026)
   <br>
@@ -27,7 +29,7 @@ title: Publications
   <br>
  Xiang Li, **Wei He**, Per Ola Kristensson
  <br>
-  **CHI Conference on Human Factors in Computing Systems (CHI 2026)**
+  In *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI 2026)*. 2026.
   <br>
  \| <a href="/assets/files/CHI26_IX.pdf">PDF</a> \| [ACM DL (DOI)](https://dl.acm.org/doi/10.1145/3772318.3790724) \| [arXiv](https://arxiv.org/abs/2601.17811) \|
 
