@@ -1,0 +1,27 @@
+<div class="publication-list">
+  {% for paper in include.papers %}
+  <article class="publication-entry">
+    <div class="publication-preview">
+      {% if paper.image %}
+      <img src="{{ paper.image | relative_url }}" alt="Preview of {{ paper.title | escape }}" loading="lazy" decoding="async" width="640" height="360">
+      {% else %}
+      <div class="publication-placeholder" aria-label="Paper preview not yet available">
+        <i class="fa-regular fa-file-lines" aria-hidden="true"></i>
+        <span>{{ paper.venue }}</span>
+      </div>
+      {% endif %}
+    </div>
+    <div class="publication-details">
+      <h3><a href="{{ paper.links.first.url }}">{{ paper.title }}</a></h3>
+      <p class="publication-authors">{{ paper.authors }}{% if paper.equal_contribution %} <span class="publication-note">(* equal contribution)</span>{% endif %}</p>
+      <p class="publication-venue">{{ paper.venue }}</p>
+      {% if paper.award %}<p class="publication-award">{{ paper.award }}</p>{% endif %}
+      <ul class="publication-links" aria-label="Resources for {{ paper.title | escape }}">
+        {% for link in paper.links %}
+        <li><a href="{{ link.url }}"><i class="fa-solid {% if link.label == 'PDF' %}fa-file-pdf{% else %}fa-link{% endif %}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </article>
+  {% endfor %}
+</div>

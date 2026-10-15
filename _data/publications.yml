@@ -1,22 +1,84 @@
 main:
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+- title: An Exploration of Collaboration Strategies Across Levels of Co-Presence in VR Exergames
+  authors: <strong>Wei He</strong><sup>*</sup>, Xiang Li<sup>*</sup>, Mark Colley, Per Ola Kristensson, Ge Lin Kan, and Hai-Ning Liang
+  venue: Virtual Reality
+  links:
+  - label: DOI
+    url: https://link.springer.com/article/10.1007/s10055-026-01437-9
+  equal_contribution: true
+- title: 'LocoScooter: Designing a Stationary Scooter-Based Locomotion System for Navigation in Virtual Reality'
+  authors: <strong>Wei He</strong><sup>*</sup>, Xiang Li<sup>*</sup>, Per Ola Kristensson, Ge Lin Kan
+  venue: IEEE VR 2026 · IEEE TVCG
+  links:
+  - label: DOI
+    url: https://ieeexplore.ieee.org/document/11458019
+  - label: arXiv
+    url: https://arxiv.org/abs/2601.02167
+  image: /assets/img/publications/locoscooter.jpg
+  equal_contribution: true
+- title: How Do We Evaluate Experiences in Immersive Environments?
+  authors: Xiang Li, <strong>Wei He</strong>, Per Ola Kristensson
+  venue: ACM CHI 2026
+  links:
+  - label: PDF
+    url: /assets/files/CHI26_IX.pdf
+  - label: DOI
+    url: https://dl.acm.org/doi/10.1145/3772318.3790724
+  - label: arXiv
+    url: https://arxiv.org/abs/2601.17811
+  image: /assets/img/publications/chi26-ix.jpg
+- title: Evaluating the Usability of Microgestures for Text Editing Tasks in Virtual Reality
+  authors: Xiang Li, <strong>Wei He</strong>, Per Ola Kristensson
+  venue: IEEE TVCG
+  links:
+  - label: PDF
+    url: /assets/files/microGEXT.pdf
+  - label: DOI
+    url: https://ieeexplore.ieee.org/document/11298562
+  - label: arXiv
+    url: https://arxiv.org/abs/2504.04198
+  image: /assets/img/publications/microgext.jpg
+  award: Innovate UK Immersive Tech Award 2025 for Technical Innovation
+- title: Investigating Creation Perspectives and Icon Placement Preferences for On-Body Menus in Virtual Reality
+  authors: Xiang Li, <strong>Wei He</strong>, Shan Jin, Jan Gugenheimer, Pan Hui, Hai-Ning Liang, Per Ola Kristensson
+  venue: ACM ISS 2024
+  links:
+  - label: PDF
+    url: /assets/files/ISS24_OnBodyMenu.pdf
+  - label: DOI
+    url: https://dl.acm.org/doi/10.1145/3698136
+  - label: arXiv
+    url: https://arxiv.org/abs/2409.20238
+  image: /assets/img/publications/iss24-onbody.jpg
+- title: 'MetaDragonBoat: Exploring Paddling Techniques of Virtual Dragon Boating in a Metaverse Campus'
+  authors: <strong>Wei He</strong>, Xiang Li, Shengtian Xu, Yuzheng Chen, Chan-In Sio, Ge Lin Kan, Lik-Hang Lee
+  venue: ACM MM 2024
+  links:
+  - label: PDF
+    url: /assets/files/MM24_MetaDragonBoat.pdf
+  - label: DOI
+    url: https://doi.org/10.1145/3664647.3681078
+  - label: arXiv
+    url: https://arxiv.org/abs/2408.04013
+  image: /assets/img/publications/mm24-dragonboat.jpg
+other:
+- title: 'The Framework of NAVIS: Navigating Virtual Spaces with Immersive Scooters'
+  authors: Zhixun Lin, <strong>Wei He</strong>, Xinyi Liu, Mingchen Ye, Xiang Li, Ge Lin Kan
+  venue: ACM MUM 2024
+  links:
+  - label: PDF
+    url: /assets/files/MUM_2024_Poster.pdf
+  - label: DOI
+    url: https://doi.org/10.1145/3701571.3703381
+  - label: arXiv
+    url: http://arxiv.org/abs/2411.05569
+  image: /assets/img/publications/mum24-navis.jpg
+- title: 'Dragon Boat Simulation: An Immersive Experience Beyond Traditional Gaming'
+  authors: <strong>Wei He</strong>, Yuzheng Chen, Shengtian Xu, Changwen Ding, Lik-Hang Lee, and Ge Lin Kan
+  venue: ACM SUI 2023
+  links:
+  - label: PDF
+    url: /assets/files/SUI_poster.pdf
+  - label: DOI
+    url: https://doi.org/10.1145/3607822.3618022
+  image: /assets/img/publications/sui23-dragonboat.jpg

@@ -34,6 +34,9 @@
     <link rel="stylesheet" href="/assets/css/publications-no-dark-mode.css">
     {% endif %}
 
+    {% if page.url == '/publications/' %}
+    <link rel="stylesheet" href="{{ '/assets/css/publication-list.css' | relative_url }}">
+    {% endif %}
   </head>
   <body>
     {% if site.nav %}
