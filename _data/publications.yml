@@ -37,7 +37,7 @@ main:
     url: https://ieeexplore.ieee.org/document/11298562
   - label: arXiv
     url: https://arxiv.org/abs/2504.04198
-  image: /assets/img/publications/microgext.jpg
+  image: /assets/img/publications/microgext-teaser.png
   award: Innovate UK Immersive Tech Award 2025 for Technical Innovation
 - title: Investigating Creation Perspectives and Icon Placement Preferences for On-Body Menus in Virtual Reality
   authors: Xiang Li, <strong>Wei He</strong>, Shan Jin, Jan Gugenheimer, Pan Hui, Hai-Ning Liang, Per Ola Kristensson
