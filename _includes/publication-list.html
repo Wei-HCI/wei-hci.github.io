@@ -3,7 +3,9 @@
   <article class="publication-entry">
     <div class="publication-preview">
       {% if paper.image %}
-      <img src="{{ paper.image | relative_url }}" alt="Preview of {{ paper.title | escape }}" loading="lazy" decoding="async" width="640" height="360">
+      <a href="{{ paper.image | relative_url }}" target="_blank" rel="noopener" aria-label="View full-size figure for {{ paper.title | escape }}">
+        <img src="{{ paper.image | relative_url }}" alt="Preview of {{ paper.title | escape }}" loading="lazy" decoding="async" width="640" height="360">
+      </a>
       {% else %}
       <div class="publication-placeholder" aria-label="Paper preview not yet available">
         <i class="fa-regular fa-file-lines" aria-hidden="true"></i>

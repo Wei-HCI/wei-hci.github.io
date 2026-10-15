@@ -35,10 +35,10 @@
     {% endif %}
 
     {% if page.url == '/publications/' %}
-    <link rel="stylesheet" href="{{ '/assets/css/publication-list.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/publication-list.css' | relative_url }}?v=2">
     {% endif %}
   </head>
-  <body>
+  <body{% if page.url == '/publications/' %} class="publications-page"{% endif %}>
     {% if site.nav %}
     <div class="topbar">
       <div class="topbar-inner">
