@@ -18,8 +18,8 @@ remote_theme: yaoyao-liu/minimal-light
 
 nav:
   - title: Home
-    url: /
+    url: "#top"
   - title: Publications
-    url: /publications/
+    url: "#publications"
   - title: Services
-    url: /services/
+    url: "#services"

@@ -16,12 +16,14 @@ Previously, I worked as a research assistant at the Department of Industrial and
 
 ## News
 
-- **[Aug. 2026]** Two of our workshop papers have been accepted to the ACM UbiComp 2026 EverydayXR Workshop! 🎉
-- **[Jan. 2026]** Our CHI paper has been accepted! I am also happy to share that our Scooter paper has been selected for publication in IEEE TVCG.
-- **[Dec. 2025]** My Scooter paper has been accepted by IEEE VR 2026! Huge thanks to my amazing co-authors! Also, our paper on the microGEXT project, developed in collaboration with Cambridge, has finally been accepted and published in IEEE TVCG! Congrats, Xiang!
-- **[Mar. 2025]** I am serving as a Student Volunteer for IEEE VR 2025 in France! Bonjour.
-- **[Jan. 2025]** I started my Ph.D. in 2025 at HKUST(GZ)!
-- **[Nov. 2024]** Our poster has been accepted by ACM MUM 2024! 🎉 Thrilled to fly to Stockholm!
-- **[Sept. 2024]** Our ACM ISS 2024 paper has been accepted! Congrats, Xiang, on another first-author paper!
-- **[Jul. 2024]** My first-author paper has been accepted by ACM MM 2024. Thanks to my co-authors!
-- **[Oct. 2023]** Our poster has been accepted by ACM SUI 2023!
+{% include news-list.html %}
+
+## Publications
+
+{% include publication-list.html papers=site.data.publications.main %}
+
+## Posters, Demos, and Workshops
+
+{% include publication-list.html papers=site.data.publications.other %}
+
+{% include_relative _includes/services.md %}

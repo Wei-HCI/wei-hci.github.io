@@ -1,0 +1,10 @@
+<div class="news-scroll" tabindex="0" role="region" aria-label="News archive, scrollable">
+  <ol class="news-list">
+    {% for item in site.data.news %}
+    <li>
+      <time>{{ item.date }}</time>
+      <p>{{ item.text }}</p>
+    </li>
+    {% endfor %}
+  </ol>
+</div>

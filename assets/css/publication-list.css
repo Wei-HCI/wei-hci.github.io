@@ -1,8 +1,3 @@
-@media (min-width: 961px) {
-  .publications-page .wrapper,
-  .publications-page .topbar-inner { width: calc(100% - 64px); max-width: 1280px; }
-  .publications-page .page { gap: 40px; }
-}
 .publication-list { display: grid; gap: 36px; margin: 24px 0 40px; }
 .publication-entry {
   display: grid;
