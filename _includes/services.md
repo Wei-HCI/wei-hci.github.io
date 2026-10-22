@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://ieeevr.org/2027/"><autocolor>IEEE VR 2027</autocolor></a></li>
   <li><a href="https://vrst.acm.org/vrst2026/"><autocolor>ACM VRST 2026</autocolor></a></li>
   <li>
     <a href="https://www.ieeeismar.net/2026/"><autocolor>IEEE ISMAR 2026</autocolor></a>
