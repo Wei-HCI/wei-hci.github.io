@@ -221,3 +221,45 @@ section h4 + ul li {
 .publication-details h3 a { text-decoration: none; }
 .publication-details h3 a:hover,
 .publication-details h3 a:focus-visible { text-decoration: underline; text-underline-offset: 3px; }
+
+/* A reviewing certificate shown under its service entry, kept small. */
+.service-certificate {
+  display: block;
+  width: 190px;
+  max-width: 100%;
+  margin: 10px 0 4px;
+  text-decoration: none;
+}
+
+.service-certificate img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  box-shadow: 0 2px 6px rgba(4, 51, 97, 0.08);
+  transition: box-shadow 0.22s ease, transform 0.22s ease;
+}
+
+.service-certificate:hover img,
+.service-certificate:focus-visible img {
+  box-shadow: 0 8px 20px rgba(4, 51, 97, 0.16);
+  transform: translateY(-2px);
+}
+
+.service-certificate span {
+  display: block;
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.service-certificate:hover span { color: var(--navy); }
+
+@media (prefers-reduced-motion: reduce) {
+  .service-certificate img { transition: none; }
+  .service-certificate:hover img,
+  .service-certificate:focus-visible img { transform: none; }
+}
