@@ -9,7 +9,7 @@
     <a href="https://mobilehci.acm.org/2026/"><autocolor>ACM MobileHCI 2026</autocolor></a> ·
     <a href="https://imx.acm.org/2025/"><autocolor>ACM VRST 2025</autocolor></a> ·
     <a href="https://chi2025.acm.org/for-authors/late-breaking-work/"><autocolor>ACM CHI LBW 2025</autocolor></a> ·
-    <a href="https://chiplay.acm.org/2024/work-in-progress/"><autocolor>ACM CHI PLAY WiP 2024</autocolor></a> ·
+    <a href="https://chiplay.acm.org/2024/work-in-progress/"><autocolor>ACM CHI PLAY 2024</autocolor></a> ·
     <a href="https://chi2024.acm.org/for-authors/late-breaking-work/"><autocolor>ACM CHI LBW 2024</autocolor></a>
   </p>
 </div>

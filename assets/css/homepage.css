@@ -94,10 +94,10 @@ header a { font-size: 1.02rem; }
 
 section > h2 {
   font-family: var(--display);
-  font-size: clamp(1.95rem, 3.1vw, 2.75rem);
-  font-weight: 700;
-  line-height: 1.1;
-  letter-spacing: -0.032em;
+  font-size: clamp(2rem, 3.2vw, 2.85rem);
+  font-weight: 500;
+  line-height: 1.12;
+  letter-spacing: -0.028em;
   margin: 0 0 24px;
   padding-top: 46px;
   border-top: 1px solid var(--rule);
