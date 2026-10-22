@@ -200,21 +200,33 @@ section > ul li { margin-bottom: 4px; }
 
 /* ---- Services ---- */
 
-section h4 {
+.service-block {
+  padding-top: 14px;
+  border-top: 1px solid var(--rule);
+}
+
+section .service-block h4 {
+  margin: 0 0 10px;
   font-family: var(--sans);
-  font-size: 0.86rem;
+  font-size: 0.78rem;
   font-weight: 700;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--navy);
 }
 
-section h4 + ul { list-style: none; padding-left: 0; }
-section h4 + ul li {
-  padding: 7px 0;
-  border-bottom: 1px dotted var(--rule);
-  font-size: 1rem;
+.service-venues {
+  margin: 0;
+  font-size: 1.02rem;
+  line-height: 1.85;
+  color: var(--muted);
 }
+
+.service-venues a { white-space: nowrap; }
+.service-venues a:hover,
+.service-venues a:focus-visible { text-decoration: underline; text-underline-offset: 3px; }
+.service-venues a:hover autocolor,
+.service-venues a:focus-visible autocolor { color: var(--navy); }
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
@@ -229,9 +241,9 @@ section h4 + ul li {
 /* A reviewing certificate shown under its service entry, kept small. */
 .service-certificate {
   display: block;
-  width: 190px;
+  width: 210px;
   max-width: 100%;
-  margin: 10px 0 4px;
+  margin: 26px 0 4px;
   text-decoration: none;
 }
 
