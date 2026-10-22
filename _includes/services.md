@@ -14,7 +14,6 @@
   </li>
   <li><a href="https://mobilehci.acm.org/2026/"><autocolor>ACM MobileHCI 2026</autocolor></a></li>
   <li><a href="https://imx.acm.org/2025/"><autocolor>ACM VRST 2025</autocolor></a></li>
-  <li><a href="https://imx.acm.org/2025/"><autocolor>ACM IMX 2025</autocolor></a></li>
   <li><a href="https://chi2025.acm.org/for-authors/late-breaking-work/"><autocolor>ACM CHI Late-Breaking Work 2025</autocolor></a></li>
   <li><a href="https://chiplay.acm.org/2024/work-in-progress/"><autocolor>ACM CHI PLAY Work-in-Progress 2024</autocolor></a></li>
   <li><a href="https://chi2024.acm.org/for-authors/late-breaking-work/"><autocolor>ACM CHI Late-Breaking Work 2024</autocolor></a></li>
