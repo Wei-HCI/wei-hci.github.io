@@ -5,6 +5,7 @@ main:
   links:
   - label: DOI
     url: https://link.springer.com/article/10.1007/s10055-026-01437-9
+  image: /assets/img/publications/vrj-copresence.png
   equal_contribution: true
 - title: 'LocoScooter: Designing a Stationary Scooter-Based Locomotion System for Navigation in Virtual Reality'
   authors: <strong>Wei He</strong><sup>*</sup>, Xiang Li<sup>*</sup>, Per Ola Kristensson, Ge Lin Kan
